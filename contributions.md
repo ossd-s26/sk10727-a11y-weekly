@@ -28,3 +28,4 @@ Replace the first row with your own contribution.
 |   March 23  |  [Link](https://github.com/joannakl/ossd/pull/164)   |  Course Website   |   Submitted PR to fix broken link.   |
 |   March 26  |  [Link](https://en.wikipedia.org/w/index.php?diff=1345543822)   |  Wikipedia   |   Added a reference to an article about Metropolitan areas.   |
 |   March 26  |  [Link](https://en.wikipedia.org/w/index.php?title=Sun_Microsystems&action=edit&section=12)   |  Wikipedia   |   Added a reference to an article about Sun Microsystems.   |
+|   March 27 |  [Link](https://github.com/actualbudget/actual/pull/7304)   |  Actual (Group Project)  |   Fixes an issue where switching filter operators between exact-match (is, one of) and text-based operators (contains, matches) would populate the input with UUIDs instead of human-readable names.   |
