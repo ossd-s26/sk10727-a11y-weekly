@@ -30,3 +30,4 @@ Replace the first row with your own contribution.
 |   March 26  |  [Link](https://en.wikipedia.org/w/index.php?title=Sun_Microsystems&action=edit&section=12)   |  Wikipedia Source  |   Added a reference to an article about Sun Microsystems.   |
 |   March 27 |  [Link](https://www.openstreetmap.org/changeset/180527543)   |  OpenStreetMap Feauture |   Added new Playa Bowls location to Greenbriar Town Center   |
 |   April 8 |  [Link](https://www.openstreetmap.org/changeset/181001898)   |  OpenStreetMap Edit |   Updated incorrect classification of Greenbriar Town Center as a village to a mall.   |
+|   April 8 |  [Link](https://www.openstreetmap.org/changeset/181002204)   |  OpenStreetMap Edit |   Updated access to a basketball court to reflect that it is private for neighborhood residents.   |
