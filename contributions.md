@@ -29,3 +29,4 @@ Replace the first row with your own contribution.
 |   March 26  |  [Link](https://en.wikipedia.org/w/index.php?diff=1345543822)   |  Wikipedia   |   Added a reference to an article about Metropolitan areas.   |
 |   March 26  |  [Link](https://en.wikipedia.org/w/index.php?title=Sun_Microsystems&action=edit&section=12)   |  Wikipedia   |   Added a reference to an article about Sun Microsystems.   |
 |   March 27 |  [Link](https://www.openstreetmap.org/changeset/180527543)   |  OpenStreetMap |   Added new Playa Bowls location to Greenbriar Town Center   |
+|   April 8 |  [Link](https://www.openstreetmap.org/changeset/181001898)   |  OpenStreetMap |   Updated incorrect classification of Greenbriar Town Center as a village to a mall.   |
