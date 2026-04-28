@@ -31,3 +31,4 @@ Replace the first row with your own contribution.
 |   March 27 |  [Link](https://www.openstreetmap.org/changeset/180527543)   |  OpenStreetMap Feauture |   Added new Playa Bowls location to Greenbriar Town Center   |
 |   April 8 |  [Link](https://www.openstreetmap.org/changeset/181001898)   |  OpenStreetMap Edit |   Updated incorrect classification of Greenbriar Town Center as a village to a mall.   |
 |   April 8 |  [Link](https://www.openstreetmap.org/changeset/181002204)   |  OpenStreetMap Edit |   Updated access to a basketball court to reflect that it is private for neighborhood residents.   |
+|   April 27 |  [Link](https://en.wikipedia.org/w/index.php?title=Marvin_Minsky&oldid=1351445022)   |  Wikipedia Source |   Added reference to an article about Marvin Minsky.   |
