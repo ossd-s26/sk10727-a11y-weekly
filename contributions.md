@@ -28,7 +28,8 @@ Replace the first row with your own contribution.
 |   March 23  |  [Link](https://github.com/joannakl/ossd/pull/164)   |  Course Website   |   Submitted PR to fix broken link.   |
 |   March 26  |  [Link](https://en.wikipedia.org/w/index.php?diff=1345543822)   |  Wikipedia Source  |   Added a reference to an article about Metropolitan areas.   |
 |   March 26  |  [Link](https://en.wikipedia.org/w/index.php?title=Sun_Microsystems&action=edit&section=12)   |  Wikipedia Source  |   Added a reference to an article about Sun Microsystems.   |
-|   March 27 |  [Link](https://www.openstreetmap.org/changeset/180527543)   |  OpenStreetMap Feauture |   Added new Playa Bowls location to Greenbriar Town Center   |
+|   March 27 |  [Link](https://www.openstreetmap.org/changeset/180527543)   |  OpenStreetMap Feature |   Added new Playa Bowls location to Greenbriar Town Center   |
 |   April 8 |  [Link](https://www.openstreetmap.org/changeset/181001898)   |  OpenStreetMap Edit |   Updated incorrect classification of Greenbriar Town Center as a village to a mall.   |
 |   April 8 |  [Link](https://www.openstreetmap.org/changeset/181002204)   |  OpenStreetMap Edit |   Updated access to a basketball court to reflect that it is private for neighborhood residents.   |
 |   April 27 |  [Link](https://en.wikipedia.org/w/index.php?title=Marvin_Minsky&oldid=1351445022)   |  Wikipedia Source |   Added reference to an article about Marvin Minsky.   |
+|   May 3 |  [Link](https://www.openstreetmap.org/changeset/182183266)   |  OpenStreetMap Feature|   Added a separate Whole Foods Wine Store. 
